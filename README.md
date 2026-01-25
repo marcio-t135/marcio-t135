@@ -57,7 +57,7 @@ click over the badges to open the certificates.
   <a href="https://coursera.org/share/03d212bdf629502669d90afd42a39d8a"><img src="https://img.shields.io/badge/Cisco-SOC-049fd9?style=for-the-badge&logo=cisco&logoColor=black" height="35"/>
   <a href="https://coursera.org/share/ae2c07dc4acb62075798a64db9863c3a"/a><img src="https://img.shields.io/badge/Microsoft-Cybersecurity-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="35"/>
   <a href="https://coursera.org/share/1f8ef4ae6da7dc1b3267e54a1542a096" /a><img src="https://img.shields.io/badge/Linux-Security-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="35"/>
-  <a href=""><img src="https://img.shields.io/badge/Google-Technical%20Support%20Fundamentals-4285F4?style=for-the-badge&logo=google&logoColor=white" height="35"/>
+  <a href="https://coursera.org/share/350da607ab4cb721bd2f2391921c702f"><img src="https://img.shields.io/badge/Google-Technical%20Support%20Fundamentals-4285F4?style=for-the-badge&logo=google&logoColor=white" height="35"/>
   <a href="https://coursera.org/share/350da607ab4cb721bd2f2391921c702f"><img src="https://img.shields.io/badge/Google-Services%20Infrastructure%20%26%20Systems%20Administration-4285F4?style=for-the-badge&logo=google&logoColor=white" height="35"/>
   </a>
   </a>
