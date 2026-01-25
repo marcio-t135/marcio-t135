@@ -1,5 +1,5 @@
 # Hello, I'm Márcio Tavares
-<a href="www.linkedin.com/in/márcio-tavares-60295034a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/márcio-tavares-60295034a"> <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
@@ -52,6 +52,7 @@ My journey in Informatics has led me to develop a passion for networking and cyb
 </div>
 
 ## Certifications
+click over the badges to open the certificates.
 <div>
   <a href="https://coursera.org/share/03d212bdf629502669d90afd42a39d8a"><img src="https://img.shields.io/badge/Cisco-SOC-049fd9?style=for-the-badge&logo=cisco&logoColor=black" height="35"/>
   <a href="https://coursera.org/share/ae2c07dc4acb62075798a64db9863c3a"/a><img src="https://img.shields.io/badge/Microsoft-Cybersecurity-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="35"/>
