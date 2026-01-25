@@ -1,5 +1,5 @@
 # Hello, I'm Márcio Tavares
-<a href="https://www.linkedin.com/in/marcio-tavares-60295034a"> <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/márcio-tavares-60295034a"> <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
