@@ -25,32 +25,43 @@ My journey in Informatics has led me to develop a passion for networking and cyb
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/Packet%20Tracer-FF6C37?style=for-the-badge&logo=packet-tracer&logoColor=white" />
+
+   <img src="https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" />
+    <img src="https://img.shields.io/badge/GNS3-1F2D3D?style=for-the-badge&logo=gns3&logoColor=white" />
+
 </div>
 
-### Endpoint
+### Cybersecurity
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Security%20Onion-444444?style=for-the-badge&logo=security-onion&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/Snort-E54D3A?style=for-the-badge&logo=snort&logoColor=white" />
+
+    
+</div>
+
+### Systems
+<div>
+    <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=windows-server&logoColor=white" />
+
+
+    
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+     <a href="https://coursera.org/share/03d212bdf629502669d90afd42a39d8a" target="_blank">
+    <img src="https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" height="35"/>
+  </a>
+  <img src="https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" height="35"/>
+  <a href="https://coursera.org/share/03d212bdf629502669d90afd42a39d8a"><img src="https://img.shields.io/badge/Cisco-SOC-049fd9?style=for-the-badge&logo=cisco&logoColor=black" height="35"/>
+  <img src="https://img.shields.io/badge/Microsoft-Cybersecurity-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Linux-Security-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="35"/>
 </div>
+
 
 ## Projects
 - Detection Lab
