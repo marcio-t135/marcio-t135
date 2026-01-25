@@ -5,7 +5,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ## Objective
 
-My journey in Informatics has led me to develop a passion for networking and cybersecurity, and I am now aiming to land a job into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Recent graduate in Informatics with a strong focus on networking and cybersecurity, seeking an entry-level role in a Security Operations Center (SOC) as a Tier 1 Analyst where I can apply my technical skills in monitoring, incident response, and network security.
 
 ## Skills
 
@@ -20,10 +20,9 @@ My journey in Informatics has led me to develop a passion for networking and cyb
 | Security Monitoring in GNS3 Environments            | <a href="https://github.com/YOUR_USERNAME/security-onion-ids">Security Onion IDS/IPS Lab</a> |
 
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+# Tools
 
-### Network
+## Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/Packet%20Tracer-FF6C37?style=for-the-badge&logo=packet-tracer&logoColor=white" />
@@ -33,7 +32,7 @@ My journey in Informatics has led me to develop a passion for networking and cyb
 
 </div>
 
-### Cybersecurity
+## Cybersecurity
 <div>
     <img src="https://img.shields.io/badge/Security%20Onion-444444?style=for-the-badge&logo=security-onion&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
@@ -42,7 +41,7 @@ My journey in Informatics has led me to develop a passion for networking and cyb
     
 </div>
 
-### Systems
+## Systems
 <div>
     <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
@@ -59,5 +58,17 @@ click over the badges to open the certificates.
   <a href="https://coursera.org/share/ae2c07dc4acb62075798a64db9863c3a"/a><img src="https://img.shields.io/badge/Microsoft-Cybersecurity-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="35"/>
   <a href="https://coursera.org/share/1f8ef4ae6da7dc1b3267e54a1542a096" /a><img src="https://img.shields.io/badge/Linux-Security-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="35"/>
 </div>
+
+## Projects
+
+- **Cisco Real Equipment Network Lab**  
+  Implementation and configuration of enterprise networks using real Cisco devices, focusing on dynamic routing, security, monitoring, optimization, and troubleshooting.
+
+- **Enterprise Network Design (Packet Tracer)**  
+  Design and management of a resilient enterprise network with VLANs, STP, EtherChannel, DHCP, FHRP, WLAN, and redundancy.
+
+- **Security Onion IDS/IPS Lab**  
+  Deployment of a centralized security monitoring solution in GNS3 using Security Onion and IDS/IPS for traffic analysis.
+
 
 
