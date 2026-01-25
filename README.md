@@ -53,12 +53,8 @@ My journey in Informatics has led me to develop a passion for networking and cyb
 
 ## Certifications
 <div>
-     <a href="https://coursera.org/share/03d212bdf629502669d90afd42a39d8a" target="_blank">
-    <img src="https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" height="35"/>
-  </a>
-  <img src="https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" height="35"/>
   <a href="https://coursera.org/share/03d212bdf629502669d90afd42a39d8a"><img src="https://img.shields.io/badge/Cisco-SOC-049fd9?style=for-the-badge&logo=cisco&logoColor=black" height="35"/>
-  <img src="https://img.shields.io/badge/Microsoft-Cybersecurity-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="35"/>
+  <a href="https://coursera.org/share/ae2c07dc4acb62075798a64db9863c3a"/a><img src="https://img.shields.io/badge/Microsoft-Cybersecurity-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="35"/>
   <img src="https://img.shields.io/badge/Linux-Security-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="35"/>
 </div>
 
