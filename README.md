@@ -11,9 +11,8 @@ Recent graduate in Informatics with a strong focus on networking and cybersecuri
 
 | Skill                                               | Associated Project |
 |----------------------------------------------------|-------------------|
-| Network Design and Implementation (Cisco)          | <a href="https://github.com/YOUR_USERNAME/cisco-real-equipment">Cisco Real Equipment Network Lab</a> |
 | Dynamic Routing and Switching (VLAN, STP, FHRP)    | <a href="https://github.com/marcio-t135/Enterprise-Network-Design-and-Implementation-Cisco-Packet-Tracer-">Enterprise Network Design (Packet Tracer)</a> |
-| Network Monitoring and Troubleshooting             | <a href="https://github.com/YOUR_USERNAME/cisco-real-equipment">Cisco Real Equipment Network Lab</a> |
+| Network Monitoring and Troubleshooting             | <a href="https://github.com/marcio-t135/Cisco-real-equipment-network-design-and-dynamic-routing-OSPF-">Cisco Real Equipment Network Lab</a> |
 | Enterprise Network Redundancy and High Availability| <a href="https://github.com/YOUR_USERNAME/enterprise-network-design">Enterprise Network Design (Packet Tracer)</a> |
 | Network Traffic Analysis (Zeek)                    | <a href="https://github.com/YOUR_USERNAME/security-onion-ids">Security Onion IDS/IPS Lab</a> |
 | IDS/IPS Implementation and Monitoring              | <a href="https://github.com/YOUR_USERNAME/security-onion-ids">Security Onion IDS/IPS Lab</a> |
